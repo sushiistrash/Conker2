@@ -784,8 +784,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: U helpd dis dump fox fuckj finally finish dis gam so suck my nuts and go
-    kill thyselv loser
+  m_text: 'YOU WIN!!!
+
+    Thanks for playing!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 37f1a25e5b3e47b449e1c5cf01f33c7f, type: 2}
   m_sharedMaterial: {fileID: 3303082028730895727, guid: 37f1a25e5b3e47b449e1c5cf01f33c7f, type: 2}
@@ -812,7 +813,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 89.45
+  m_fontSize: 125.5
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
