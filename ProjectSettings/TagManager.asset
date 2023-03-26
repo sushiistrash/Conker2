@@ -8,17 +8,17 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Walls
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Enemy
+  - Crates
+  - Ladder
+  - Platform
+  - FeetBox
+  - Bullet
   - 
   - 
   - 
@@ -38,6 +38,24 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3860216027
+    locked: 0
+  - name: Environment
+    uniqueID: 1973735549
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Effects
+    uniqueID: 2237271
+    locked: 0
+  - name: Pickups
+    uniqueID: 1139224761
+    locked: 0
+  - name: Enemies
+    uniqueID: 966042719
+    locked: 0
+  - name: Player
+    uniqueID: 3370924979
     locked: 0
